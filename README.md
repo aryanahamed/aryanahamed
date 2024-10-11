@@ -14,6 +14,9 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=aryanahamed&show_icons=true&hide_border=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanahamed&layout=compact&theme=dark&hide_border=true)
 
-&nbsp;<div align="center">
-  [![Spotify](https://novatorem-eight-kohl.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/oqmuzodvtdx4qsdw1j6ch1pjt)
+
+<div align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=oqmuzodvtdx4qsdw1j6ch1pjt&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=oqmuzodvtdx4qsdw1j6ch1pjt&cover_image=true&theme=novatorem&show_offline=false&background_color=1d212b&interchange=false&bar_color=32bad2&bar_color_cover=true" />
+  </a>
 </div>
