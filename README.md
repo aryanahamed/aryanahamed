@@ -15,5 +15,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryanahamed&layout=compact&theme=dark&hide_border=true)
 
 &nbsp;<div align="center">
-  [![Spotify](https://aryanahamed.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/oqmuzodvtdx4qsdw1j6ch1pjt)
+  [![Spotify](https://novatorem-eight-kohl.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/oqmuzodvtdx4qsdw1j6ch1pjt)
 </div>
